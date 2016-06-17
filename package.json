@@ -22,7 +22,7 @@
   "author": "Neil Fenton <neilff@gmail.com> (http://github.com/neilff)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/neilff/smoker-js.git"
+    "url": "git://github.com/neilff/react-redux-performance.git"
   },
   "license": "MIT",
   "devDependencies": {
